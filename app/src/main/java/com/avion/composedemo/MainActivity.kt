@@ -46,9 +46,9 @@ class MainActivity : ComponentActivity() {
                 ) {
 
                     ImageCard(
-                        painter = painterResource(id = R.drawable.ironman),
-                        description = "Iron man aka Tony Stark",
-                        title = "Iron man aka Tony Stark"
+                        painter = painterResource(id = R.drawable.no_internet),
+                        description = "Animated Character",
+                        title = "Sad Animated Character Sitting"
                     )
                 }
             }
